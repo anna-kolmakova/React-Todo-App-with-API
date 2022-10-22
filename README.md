@@ -1,6 +1,6 @@
 # React Todo App with API (complete). Done with REST API.
 
-Technologies used: React hooks, lifting state up, functional components.
+Technologies used: React hooks, lifting state up, functional components, typescript.
 
 > Here is [the working example]( https://anna-kolmakova.github.io/React-Todo-App-with-API//)
 1.Enter your email to create a user or find an existing one in the API.
