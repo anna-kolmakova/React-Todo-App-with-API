@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-shadow
 export enum TextError {
   Add = 'Unable to add a todo',
   Delete = 'Unable to delete a todo',
