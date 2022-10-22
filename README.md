@@ -7,10 +7,10 @@ Technologies used: React hooks, lifting state up, functional components.
 
 1) Addind a todo with the entered title on form submit:
 
-if the title is empty it will show the 'Title can't be empty' notification at the bottom;
-input disabled receiving the response from the API;
-showed the loader on the added todo;
-in case of API error - it will show 'Unable to add a todo' notification at the bottom;
+- if the title is empty it will show the 'Title can't be empty' notification at the bottom;
+- input disabled receiving the response from the API;
+- showed the loader on the added todo;
+- in case of API error - it will show 'Unable to add a todo' notification at the bottom;
 
 2) Filtering todos with bottons on footer: All, Completed, Active.
 3) Deleting separate todos or completed (showed the loader on the removed todo);
